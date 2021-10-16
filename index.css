@@ -210,3 +210,17 @@ Purpose Styles
   border-radius: 25px;
   margin-top: 20px;
 }
+
+/*Expertise page Styles*/
+.exertise h1 {
+  font-size: 100px;
+  font-weight: bold;
+}
+.exertise h3 {
+  font-size: 40px;
+}
+
+.epertise-cards {
+  display: flex;
+  justify-content: center;
+}
