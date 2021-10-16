@@ -77,33 +77,42 @@ button:hover {
 }
 
 .intro h1 {
-  font-size: 100px;
+	font-size: 100px;
 }
 
 .intro p {
-  font-size: 30px;
+	font-size: 30px;
+}
+
+.intro .intro-cards p {
+	font-size: 30px;
+	color: #000;
 }
 
 .intro-cards {
-  display: flex;
-  flex-direction: row;
-  margin-left: 400px;
+	display: flex;
+	flex-direction: row;
+	margin-left: 400px;
+	border-radius: 25px;
 }
 .Card_For_intro {
-  background-color: white;
-  box-shadow: 5px 5px black;
-  width: 300px;
-  height: 300px;
-  margin-right: 30px;
+	background-color: white;
+	box-shadow: 5px 5px black;
+	width: 300px;
+	height: 300px;
+	margin-right: 30px;
+	border-radius: 25px;
 }
 
 .Card_For_intro img {
-  width: 300px;
+	width: 300px;
 }
 
 .Card_For_intro button {
-  background-color: #50a3a2;
-  color: white;
+	background-color: #50a3a2;
+	color: white;
+	border-radius: 25px;
+	width: 100px;
 }
 
 /* for pathSelection.js */
