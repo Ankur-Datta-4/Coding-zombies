@@ -173,3 +173,40 @@ button:hover {
 	color: #fff;
 	border-radius: 15px;
 }
+
+/*
+Purpose Styles
+*/
+.purpose h1 {
+  font-size: 47px;
+}
+.Card_For_purpose {
+  /* background-color: black; */
+  background-color: white;
+  color: #50a3a2;
+  width: 200px;
+  height: 200px;
+  margin: 20px;
+  border-radius: 20px;
+}
+
+.purpose-items {
+  display: flex;
+  flex-direction: row;
+  margin-left: 250px;
+}
+
+.Card_For_purpose p {
+  padding-top: 2rem;
+  color: black;
+  font-size: 16px;
+  font-weight: bold;
+}
+.Card_For_purpose button {
+  background-color: #50a3a2;
+  color: white;
+  width: 100px;
+  height: 40px;
+  border-radius: 25px;
+  margin-top: 20px;
+}
