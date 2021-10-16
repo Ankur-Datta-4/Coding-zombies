@@ -1,0 +1,945 @@
+COURSE CATEGORY,COURSE TITLE,COURSE OBJECTIVE,COURSE INSTRUCTORS,INSTRUCTOR PROFFESSION,COURSE RATING,,,
+,,,,,,,,
+IT AND SOFTWARE,"Learn Ethical Hacking From Scratch
+","135+ ethical hacking & security videos.
+Start from 0 up to a high-intermediate level.
+Learn ethical hacking, its fields & the different types of hackers.
+Install a hacking lab & needed software (on Windows, OS X and Linux).
+Hack & secure both WiFi & wired networks.
+Understand how websites work, how to discover & exploit web application vulnerabilities to hack websites.
+Use 30+ hacking tools such as Metasploit, Aircrack-ng, SQLmap.....etc.
+Discover vulnerabilities & exploit them to hack into servers.
+Hack secure systems using client-side & social engineering.
+Secure systems from all the attacks shown.
+Install & use Kali Linux - a penetration testing operating system.
+Learn linux basics.
+Learn linux commands & how to interact with the terminal.
+Learn Network Hacking / Penetration Testing.
+Network basics & how devices interact inside a network.
+Run attacks on networks without knowing its key.
+Control Wi-Fi connections without knowing the password.
+Create a fake Wi-Fi network with internet connection & spy on clients.
+Gather detailed information about networks & connected clients like their OS, ports ...etc.
+Crack WEP/WPA/WPA2 encryptions using a number of methods.
+ARP Spoofing / ARP Poisoning.
+Launch various Man In The Middle attacks.
+Access any account accessed by any client on the network.
+Sniff network traffic & analyse it to extract important info such as: passwords, cookies, urls, videos, images ..etc.
+Intercept network traffic & modify it on the fly.
+Discover devices connected to the same network.
+Inject Javascript in pages loaded by clients connected to the same network.
+Redirect DNS requests to any destination (DNS spoofing).
+Secure networks from the discussed attacks.
+Edit router settings for maximum security.
+Discover suspicious activities in networks.
+Encrypt traffic to prevent MITM attacks.
+Discover open ports, installed services and vulnerabilities on computer systems.
+Hack servers using server side attacks.
+Exploit buffer over flows & code execution vulnerabilities to gain control over systems.
+Hack systems using client side attacks.
+Hack systems using fake updates.
+Hack systems by backdooring downloads on the fly.
+Create undetectable backdoors.
+Backdoor normal programs.
+Backdoor any file type such as pictures, pdf's ...etc.
+Gather information about people, such as emails, social media accounts, emails and friends.
+Hack secure systems using social engineering.
+Send emails from ANY email account without knowing the password for that account.
+Analyse malware.
+Manually detect undetectable malware.
+Read, write download, upload and execute files on compromised systems.
+Capture keystrokes on a compromised system.
+Use a compromised computer as a pivot to hack other systems.
+Understand how websites & web applications work.
+Understand how browsers communicate with websites.
+Gather sensitive information about websites.
+Discover servers, technologies & services used on target website.
+Discover emails & sensitive data associated with a specific website.
+Discover subdomains associated with a website.
+Discover unpublished directories & files associated with a target website.
+Discover websites hosted on the same server as the target website.
+Exploit file upload vulnerabilities to gain control over target website.
+Discover, exploit and fix code execution vulnerabilities.
+Discover, exploit & fix local file inclusion vulnerabilities.
+Discover, exploit & fix SQL injection vulnerabilities.
+Bypass login forms and login as admin using SQL injections.
+Exploit SQL injections to find databases, tables & sensitive data such as usernames, passwords...etc
+Read / Write files to the server using SQL injections.
+Learn the right way to write SQL queries to prevent SQL injections.
+Discover reflected XSS vulnerabilities.
+Discover Stored XSS vulnerabilities.
+Hook victims to BeEF using XSS vulnerabilities.
+Fix XSS vulnerabilities & protect yourself from them as a user.
+Discover MITM & ARP Spoofing attacks.
+","Zaid Sabih
+z Security
+","Ethical Hacker, Computer Scientist & CEO of zSecurity
+Leading provider of ethical hacking and cyber security training,
+","4.6
+",,,
+,,,,,,,,
+IT AND SOFTWARE,"Ultimate AWS Certified Solutions Architect Associate 2021
+","FULLY UPDATED FOR SAA-C02: Pass the AWS Certified Solutions Architect Associate Certification
+All 600+ slides available as downloadable PDF
+Perform Real-World Solution Architecture on AWS
+Learn the AWS Fundamentals (EC2, ELB, ASG, RDS, ElastiCache, S3)
+Learn the Serverless Fundamentals (Lambda, DynamoDB, Cognito, API Gateway)
+Analyze 10+ Solution Architectures (traditional & serverless)
+Understand the Well Architected Framework, Disaster Recovery
+Master all the differences of Databases on AWS
+Secure your entire AWS Cloud using KMS, IAM Policies & SSM
+","Stephane Maarek | AWS Certified Cloud Practitioner,Solutions Architect,Developer
+","Best Selling Instructor, Kafka Guru, 9x AWS Certified
+","4.7
+",,,
+,,,,,,,,
+IT AND SOFTWARE,"The Complete Cyber Security Course : Network Security!
+","An advanced practical skill-set in assuring network security against all threats including - advanced hackers, trackers, exploit kits, Wi-Fi attacks and much more.
+In this volume, we take a detailed look at network security.
+Start a career in cyber security. Become a cyber security specialist.
+The very latest up-to-date information and methods.
+Discover security vulnerabilities across an entire network, by using network hacking techniques and vulnerability scanning.
+You will be able to configure firewalls on all platforms including Windows, MacOS, and Linux for all types of attack scenarios.
+Learn to configure and architect a small network for maximum physical and wireless security.
+Perform network monitoring to discover and identify potential hackers and malware using tools like Wireshark, Tcpdump, and Syslog.
+Understand how we are tracked online by corporations, nation-states your ISP and others.
+We look at search engine privacy - we will best understand how to mitigate the tracking and privacy issues of search engines and their associated services.
+Understand how to best use methods of authentication including passwords, multi-factor authentication including soft tokens and hard tokens.
+What are the best password managers to use and why. How passwords are cracked, and how to mitigate the password attacks.
+A certificate of completion is available signed by the instructor Nathan House so CPE credits can be claimed. An off-site sign-up is required to provide your details for this optional certificate.
+","Nathan House
+","Leading Cyber Security Expert
+","4.5
+",,,
+,,,,,,,,
+IT AND SOFTWARE,"Learn Linux in 5 Days and Level Up Your Career
+","By the end of this course you will understand the fundamentals of the Linux operating system and be able to apply that knowledge in a practical and useful manner.
+","Jason Cannon
+","Professional system administrator, consultant, and author.
+","4.5
+",,,
+,,,,,,,,
+IT AND SOFTWARE,"The Complete Oracle SQL Certification Course
+","Become Job Ready to Start Contributing as a Database Developer Day 1
+Program in the SQL Language to Solve a Variety of Database Problems
+Code along with me to PRACTICE and IMPLEMENT everything you learn
+Become a SQL Ninja and Understand How the Oracle Database Works
+MASTER the Content Required to Pass the Oracle 1Z0-071 Database SQL Exam
+Obtain the Skills that are Necessary to Land a Job as a SQL Developer
+Have the Ability to Solve any SQL Problem
+","Imtiaz Ahmad
+","Senior Software Engineer & Trainer @ Job Ready Programmer
+","4.6
+",,,
+,,,,,,,,
+IT AND SOFTWARE,"Blockchain and Bitcoin Fundamentals
+","Have a strong understanding of what blockchain technology is.
+Understand what Bitcoin is and how it works.
+Know and use key vocabulary and concepts commonly used when discussing blockchain and Bitcoin in business situations.
+","George Levy
+","Award winning instructor blockchain, Bitcoin, cryptocurrency
+","4.6
+",,,
+,,,,,,,,
+IT AND SOFTWARE,"[NEW] Complete Salesforce Administrator Certification Course
+","Understand all of the core concepts on the exam in order to pass the Salesforce Administrator Certification Exam
+Administer Salesforce Like a Pro
+Deploy Salesforce Lightning Experience
+Roll Out Salesforce Mobile
+Use SalesforceA
+Use Salesforce Lightning and Classic
+","Mike Wheeler
+Aaron Wheeler
+Evan Wheeler
+Zeke Wheeler
+","Salesforce Trainer - 150,000+ Students - 28K+ 5-Star Reviews
+Adobe Certified Expert (ACE) - Premiere Pro CC
+Video Editor for Mike Wheeler Media
+Editor
+","4.6
+",,,
+,,,,,,,,
+IT AND SOFTWARE,"Spring Framework Master Class - Java Spring the Modern Way
+","You will Learn Spring Framework the MODERN WAY - The way Real Projects use it!
+You will Become a COMPLETE Spring Developer - With the ability to write Great Unit Tests
+You will Acquire ALL the SKILLS to demonstrate an EXPERTISE with Spring Framework in Your Job Interviews
+You will learn the BASICS of Spring - Dependency Injection, IOC Container, Application Context and Bean Factory
+You will Become the GO TO GUY for Fixing Spring Framework problems in Your Project
+You will GO FROM a Total Beginner to an EXPERIENCED Spring Developer
+You will understand how to use Spring Annotations - @Autowired, @Component, @Service, @Repository, @Configuration, @Primary....
+You will understand Spring MVC in depth - DispatcherServlet , Model, Controllers and ViewResolver
+You will use a variety of Spring Boot Starters - Spring Boot Starter Web, Starter Data Jpa, Starter Test
+You will learn the basics of Spring Boot, Spring AOP, Spring JDBC and JPA
+You will learn the basics of Eclipse, Maven, JUnit and Mockito
+You will develop a basic Web application step by step using JSP Servlets and Spring MVC
+You will learn to write unit tests with XML, Java Application Contexts and Mockito
+","in28Minutes Official
+","DevOps, Azure, GCP, Docker, Kubernetes, Java & Spring Boot
+","4.5
+",,,
+,,,,,,,,
+IT AND SOFTWARE,"Google Cloud Platform (GCP) Fundamentals for Beginners
+","Take the first step in your GCP readiness journey
+Explore GCP building blocks
+Understand the key GCP services
+Learn how to use GCP compute, storage, and networking services
+Identify the value proposition of key GCP services
+Choose the right GCP service for your use case and business scenario
+Apply the concepts of identity & access management to secure GCP projects
+","Janakiram MSV
+","Analyst | Advisor | Architect
+","4.4
+",,,
+,,,,,,,,
+IT AND SOFTWARE,"API and Web Service Introduction
+","Introduction to APIs and RESTful Web Services. Includes HTTP, JSON, XML, REST, SOAP, OAuth, OpenID Connect, Postman, and Python. Includes examples and a quiz.
+","Nate Ross
+","Technology Teacher
+","4.6
+",,,
+,,,,,,,,
+DESIGN,"Character Art School: Complete Character Drawing Course
+","How to Draw Characters Well
+How to Draw Out of Your Head Fast
+How to Draw in 3D
+How to Draw Faces, Bodies and Hands
+How to Draw like a Professional Artist
+How to Draw Characters for Games, Films, Animation, Manga, Comics and More
+Draw with Pencils and Paper or Digital Art Tools
+Utilize the included 7GB of Free Art Resources
+","Scott Harris
+","Art Director - Art School of Imagination, Art Book Author
+","4.6
+",,,
+,,,,,,,,
+DESIGN,"Complete Blender Creator: Learn 3D Modelling for Beginners
+","Use Blender and understand it's interface
+Understand the principles of modelling
+Create 3D models with simple colors
+Learn the basics of animation
+Create your own materials
+UV map and unwrap your models
+","GameDev.tv Team
+Rick Davidson
+Grant Abbitt
+","Learn to Make and Sell Games
+Career Coach with 14+ years in the Video Game Industry
+3D Artist
+","4.6
+",,,
+,,,,,,,,
+DESIGN,"Ultimate Adobe Photoshop Training: From Beginner to Pro
+","Design icons, business cards, illustrations, and characters
+Clean up face imperfections, improve and repair photos
+Use creative effects to design stunning text styles
+Remove people or objects from photos
+Cut away a person from their background
+Master selections, layers, and working with the layers panel
+","Cristian Doru Barin
+","Certified Photoshop Instructor & Expert, Web & App Designer
+","4.6
+",,,
+,,,,,,,,
+DESIGN,"User Experience Design Essentials - Adobe XD UI UX Design
+","Become a UX designer.
+You will be able to start earning money from your XD Skills.
+You will be able to add UX designer to your CV
+Build a UX project from beginning to end.
+Become a UI designer.
+Build & test a full mobile app.
+Build & test a full website design.
+You will have a project of your own to add to your portfolio.
+93 lectures of well-structured, step by step content.
+Learn to design websites & mobile phone apps.
+Work with fonts & colors.
+Prototype your designs with interactions.
+Test on mobile phones.
+You'll create realistic prototype complete with micro interactions.
+Send your designs for feedback & commenting.
+Export production ready assets.
+Create your first UX brief & persona.
+Create quick wireframes.
+How to use premade UI kits.
+Learn professional workflow tricks & shortcuts.
+You will get the finished files so you never fall behind
+Downloadable exercise files
+Forum support from me and the rest of the BYOL crew
+All the techniques used by UX professionals
+Build a mobile app prototype that responses to voice commands.
+You will be able to talk correctly with other UX design professionals.
+You'll learn how to choose colors.
+You'll learn how to pick the correct fonts.
+You'll be able to send your finished work to other professionals in the correct formats.
+","Daniel Walter Scott
+","Adobe Certified Instructor & Adobe Certified Expert
+","4.7
+",,,
+,,,,,,,,
+DESIGN,"Graphic Design Masterclass - Learn GREAT Design
+","Have a deep understanding of typography, color theory, photos, layout, blocking and other design theory and skills
+Understand and learn the essential tools and capabilities of Adobe Photoshop, Illustrator and InDesign
+Create logos and branding packages for potential clients
+Learn photo editing and manipulation in Adobe Photoshop
+Master the pen tool, shape builder tool and other essential vector design tools in Adobe Illustrator.
+How to create editorial spreads and magazine layouts using Adobe InDesign
+Understand solid logo design and ad design principles to create compelling campaigns and logos
+Work through the entire package design process
+Learn non-destructive editing techniques in Adobe Photoshop
+Work through an event flyer design to understand strong type hierarchy, balance and overall design layout
+Learn a few of the upcoming design trends for 2021 and how to create them!
+Learn the history of fonts and typefaces and how to pair fonts
+Learn the basics of Affinity Designer and learn the difference between Adobe Illustrator and Affinity Designer
+Work through a 7 page vector tracing worksheet and feel confident creating a complex vector illustration by the end of this worksheet
+NEW! Learn how to work with multiple page layouts in Adobe InDesign and create a cookbook cover and book
+NEW! Learn the step-by-step process to becoming a graphic designer
+NEW! Learn how to work with Photoshop Mockups to create great presentations
+NEW! Learn word mapping and brainstorming techniques to increase your creativity in logo design and branding projects
+NEW! Learn the Double Exposure Effect in Adobe Photoshop
+NEW! Create Vector Art in Adobe Illustrator
+NEW! Learn How to Encourage and Spark Creativity
+NEW! How to create YouTube thumbnails and social media graphics
+NEW! How to properly give and receive critiques and feedback
+","Lindsay Marsh
+","300,000+ Students | Graphic Design, Adobe, Affinity & More
+","4.7
+",,,
+,,,,,,,,
+DESIGN,"The complete AutoCAD 2018-21 course
+","Make and edit their own AutoCAD Drawings, Plans and Layouts
+Prepare for the AutoCAD certification exams
+Work with projects like floor plans, circuit diagrams and mechanical drafting
+New features of AutoCAD 2019, 20 and 2021 version
+","Jaiprakash Pandey
+","Co-author of Learn AutoCAD Book
+","4.6
+",,,
+,,,,,,,,
+DESIGN,"Graphic Design Bootcamp: Photoshop, Illustrator, InDesign
+","Gain a clear understanding of how to work with BOTH print and web projects in Photoshop, Illustrator, and InDesign.
+Develop the skills and confidence to create common graphic design projects.
+Build a skill set that can set you up to be employable in the creative industry as a graphic designer.
+Begin to understand the basics of logo design, including typography and color usage.
+Learn how to make and refine selections using Photoshop.
+Learn how to make composite images using Photoshop.
+Work with typography, shapes, colors, and more in Illustrator.
+Learn how to efficiently package and export files.
+Learn how to lay out graphics and text while designing an eBook with InDesign.
+Discover how to export your finished portfolio projects directly from the Adobe CC into Behance.
+Learn how to mask shapes and work with Font Awesome icons.
+Learn how to set up a logo mood board and how to present your work to clients.
+Work with the type tools in Adobe Illustrator.
+","Derrick Mitchell
+","Creative Director; Online Teacher to over 128,000 students
+","4.5
+",,,
+,,,,,,,,
+DESIGN,"Drawing and Painting on the iPad with Procreate
+","Users will have a deep understanding of Procreate
+Create Speedraw videos they can post online
+Create and import custom brushes
+Have a basic understanding of how to compose and create a painting
+","Brad Colbow
+","Freelance Designer and Illustrator
+","4.7
+",,,
+,,,,,,,,
+DESIGN,"CSS - The Complete Guide 2021 (incl. Flexbox, Grid & Sass)
+","Build beautiful websites which don't just contain great content but also look good
+Use basic as well as advanced CSS features
+Understand the concepts and theory behind CSS and certain CSS features
+","Academind by Maximilian Schwarzmüller
+Maximilian Schwarzmüller
+Manuel Lorenz
+","Online Education
+Professional Web Developer and Instructor
+Professional Business Analyst and Instructor
+","4.7
+",,,
+,,,,,,,,
+DESIGN,"Creating 3D environments in Blender
+","Creating stunning unique environments
+Organize your workflow to make large environment scenes
+More than 250 unique 2K / 4K textures
+Lots of medieval reference photos
+E-book: Old Masters Unveiled ( 250 pages)
+All scene assets, including buildings, rocks, grass, trees and more
+6 Characters to fill up your scene
+Full course documentation for the Blender basics chapter
+Baking your models and importing in Unity 3D
+","Rob Tuytel
+Erik Selin
+","Founder Texture Haven
+3D Artist
+","4.7
+",,,
+,,,,,,,,
+BUSINESS,"Microsoft Power BI - A Complete Introduction [2021 EDITION]
+","At the end of this course students will be able to analyse data from different data sources and create their own datasets
+Students will be able to comfortably work with the different tools of the Power BI universe and know how the different tools work together
+Students will have the required knowledge to dive deeper into Power BI and find out more about its advanced features
+","Manuel Lorenz
+Academind by Maximilian Schwarzmüller
+Maximilian Schwarzmüller
+","Professional Business Analyst and Instructor
+Online Education
+Professional Web Developer and Instructor
+","4.6
+",,,
+,,,,,,,,
+BUSINESS,"An Entire MBA in 1 Course:Award Winning Business School Prof
+","Over 400,000 students in 195 countries!
+Superb reviews!
+Free $99 384 page book version of this course!
+Take your career to the next level!
+Launch a company from scratch.
+Get any job the easy way.
+Get many customers by using the best networking tool!
+Raise a lot of money quickly.
+Create financial models from scratch (the Professor makes it so easy to understand).
+Analyze company financials with ease!
+Understand how investment banking firms work and what they can do to help your business.
+Understand how management consulting firms work and when you need to hire them.
+Understand how macro economics and micro economics works.
+Understand what is venture capital and how to partner with the top venture capital firms to take your company to the next level.
+Present to investors and customers like a boss : )
+Communicate the right way in business so that you don't waste time.
+Change careers easily.
+Network and get a meeting with anyone (ideal tips on how to get a job or how to reinvent yourself or how to find customers).
+Analyze entire markets and companies from a qualitative and quantitative perspective.
+Understand how taxes work (don't worry this section is not boring)!
+Protect your family and assets in case your business gets sued.
+Understand what business career makes most sense for you!
+Restructure your company and the benefits of declaring bankruptcy protection if needed.
+Partner with equity and debt providers.
+After this course you will have the tools / skills needed to launch a company, grow it and then take it public!
+Value companies the easy way.
+Set up the correct and most beneficial legal entity for your company.
+Identify what makes an entrepreneur extremely successful.
+Set unbelievable goals for yourself (there are no limits to what you can achieve....)!
+","Chris Haroun
+","Award Winning MBA Professor, Venture Capitalist and Author.
+","4.4
+",,,
+,,,,,,,,
+BUSINESS,"Leadership: Practical Leadership Skills
+","Become a Master in Leadership
+Be a better boss, and run a highly effective team
+Delegate effectively to empower their team
+Have a healthy work life balance, with a happy environment
+Understand academic theories surrounding leadership styles and techniques
+Build a vast array of practical tools to be a fantastic leader
+Know the difference between delegating styles and which one is appropriate for each situation
+Feel confident enough to involve employees in decision making and planning
+Spend more time developing plans and ideas for the future
+","Chris Croft
+","Management Trainer, Speaker, Author
+","4.6
+",,,
+,,,,,,,,
+BUSINESS,"Become a Product Manager | Learn the Skills & Get the Job
+","Understand the varying role of a Product Manager through different types and sizes of companies
+Decide which type of Product Manager best fits one's goals and personality
+Understand the Product Lifecycle and how it applies to every product
+Understand the modern Product Development Process that both Fortune 500s and Startups adhere to
+Know how to identify ideas worth pursuing and dedicating resources to
+Understand how to get at the root of customer pain points
+Understand and communicate customer pain by type and frequency
+Assess the core problem of a product
+Find and compare competitors and competing products
+Differentiate between Direct, Indirect, Substitute, and Potential competitors
+Understand the process of Customer Development and how it relates to being a Product Manager
+How to find potential interviewees for product interviews, user tests, and exploratory interviews
+How to structure and run a customer interview
+How to model interview questions correctly while avoiding bias
+Navigate the four different types of customer interviews
+Find potential interviewees both internally and externally
+Write emails that will get users and potential customers to respond
+Build user personas based on both qualitative and quantitative data
+Understand the difference between a wireframe, a mockup, and a prototype
+Sketch out a wireframe with just a pen and paper
+Use Balsamiq to create wireframes at an intermediate level
+Use a sketch system called POP for digitizing product sketches
+Create specs for epics and user stories
+Properly apply acceptance criteria
+Run a variety of MVP experiments, such as pitch experiments, redirects, shadow buttons, and more
+Correctly evaluate which product metrics to track and which to ignore
+Apply the AARRR framework to your product
+Apply the HEART framework to your product
+Track your metrics using a variety of software
+Create a product and feature roadmap
+Create a product backlog and properly prioritize features
+Calculate team velocity and build estimations for product delivery
+Understand the difference between Agile and Waterfall development
+Understand the difference between two popular Agile frames: Scrum and Kanban
+Learn software development concepts like APIs, mobile development, Front End, Back End, MySQL, programming frameworks, and more
+Communicate effectively with all the stakeholders of a product
+Communicate effectively with engineers in a way they will appreciate and understand
+Communicate effectively with designers by focusing on the things they care about most
+Communicate effectively with executives and higher-ups
+Understand the role of technology in modern Startups and Fortune 500s
+Understand the basics of ""The Cloud"" and Servers vs. Clients
+Understand the basics of front-end vs. back-end technology, tech stacks, and how they integrate together
+Understand the basics of APIs, what they do, what they look like, and how your team might use them
+Understand how to obtain relevant experience to set up for a transition to Product Management
+Build a portfolio that will assist in a hiring application
+How to self-brand online and build a following pre-hire
+What to look for in Product Management jobs and what to ignore
+How to apply insider tips and tricks to getting hired as a Product Manager
+Craft a resume that appeals to a hiring manager for Product Management placement
+Ace the Product Manager interview
+Excel beyond getting hired
+","Cole Mercer
+Evan Kimbrell
+","Head of Academy @ Semrush | Ex- Lead PM @ SoundCloud
+Founder of Sprintkick | Ex-VC  | Ex-startup founder
+","4.6
+",,,
+,,,,,,,,
+BUSINESS,"The Business Intelligence Analyst Course 2021
+","Become an expert in Statistics, SQL, Tableau, and problem solving
+Boost your resume with in-demand skills
+Gather, organize, analyze and visualize data
+Use data for improved business decision-making
+Present information in the form of metrics, KPIs, reports, and dashboards
+Perform quantitative and qualitative business analysis
+Analyze current and historical data
+Discover how to find trends, market conditions, and research competitor positioning
+Understand the fundamentals of database theory
+Use SQL to create, design, and manipulate SQL databases
+Extract data from a database writing your own queries
+Create powerful professional visualizations in Tableau
+Combine SQL and Tableau to visualize data from the source
+Solve real-world business analysis tasks in SQL and Tableau
+","365 Careers
+","Creating opportunities for Business & Finance students
+","4.6
+",,,
+,,,,,,,,
+BUSINESS,"Agile Fundamentals: Including Scrum and Kanban - 2021
+","Learn how to get into the Agile mindset and achieve success in helping organizations evolve
+Command a strong focus on delivering customer value and exceeding expectations
+Master popular Agile frameworks Scrum, Kanban, and Scrumban, enabling you to land and excel in any Agile position
+Explore fun, interactive, and highly effective lessons from best-selling instructors
+Assist with your organization's current, or future, transformation to Agile
+","The BA Guide | Jeremy Aschenbrenner
+Vivek & Pabitra Khattri
+","Business Analyst Trainer and Coach | Best Selling Instructor
+Coach & Instructor @ The Agile Coach
+","4.5
+",,,
+,,,,,,,,
+BUSINESS,"Communication Fundamentals: How To Communicate Better
+","Effectively communicate
+Communicate with different personalities
+","Life Progression Project
+Lorraine Wiseman
+","Teaching 240,000+ Students across 40+ Courses
+Global Executive in Leading Change
+","4.5
+",,,
+,,,,,,,,
+BUSINESS,"Conscious Listening
+","Bring confidence and control to your communication
+Become present and aware in social situations
+Learn how your listening dictates your reality and how you can use listening to alter your experience of the world
+Create stronger connections with other people and to the world around you
+Improve your relationships
+Understand the impact of sound and listening on your health and wellbeing
+Master the three types of listening
+Improve your understanding and appreciation
+Learn how we are losing our listening, and how it can be restored
+Learn how to listen with compassion
+","Julian Treasure
+","Five-time TED speaker and author of ""How to be Heard""
+","4.5
+",,,
+,,,,,,,,
+BUSINESS,"Design Thinking for Beginners: Develop Innovative Ideas
+","Apply the 5-step design thinking process to a design challenge in your organization.
+Empathize with your user through interviews and observations, in order to take a human-centered approach to a problem.
+Define your core problem by synthesizing and analyzing information gathered during your empathy work.
+Ideate solutions to your problem by brainstorming using ""How might we..."" statements.
+Prototype your ideas rapidly to identify the best possible solution for your problem.
+Test your prototypes with users to gather feedback on your proposed solution.
+Pitch design thinking to your team or organization using storytelling.
+","Laura Pickel
+","Learning Experience Designer at Lyft
+","4.4
+",,,
+,,,,,,,,
+BUSINESS,"Customer | How to Understand Customer Needs
+","Recognise how internal service impacts external service
+Define internal and external customers
+Determine factors that create customer value
+Link service to outcome
+Identify needs of internal and external customers
+Develop strategies to support the modern day customer - inclusive of the ‘millennial’ customer
+Develop strategies to gain an emotional connection with your customer
+","Learoy Tonight
+","Bite Size Learning
+","4.5
+",,,
+,,,,,,,,
+TEACHING AND  ACADEMICS,"Spanish for Beginners. The Complete Method. Level 1
+","You will rapidly build a solid foundation of Spanish.
+You will have practical usage of basic Spanish in a matter of weeks.
+You will produce and speak thousands of perfectly constructed phrases.
+You will speak with good pronunciation due to constant repetition and imitation of native Spanish speaker.
+You will remember at least 98% of the everything taught, due to the system of constant repetition and recycling of new language.
+","Peter Hanley
+","Best Selling Language Instructor, creator of THE METHOD.
+","4.8
+",,,
+,,,,,,,,
+TEACHING AND  ACADEMICS,"English Grammar Launch: Upgrade your speaking and listening
+","Speak English more confidently.
+Better understand spoken English.
+Have a deeper knowledge of the structure of English grammar.
+Produce the target structures confidently and accurately.
+","Anthony Kelleher
+","Bachelor of Arts TESOL - English Teacher at Sir English
+","4.6
+",,,
+,,,,,,,,
+TEACHING AND  ACADEMICS,"Learn German Language: Complete German Course - Beginners
+","The #1 German Course. Start speaking real, grammatically correct German fluently, effortlessly and confidently today.
+Improve your listening and German comprehension skills through ear training and visual learning thanks to the native German speaking teacher, interactive board, subtitles and included .pdf materials.
+Be confident regarding your German skills (A1, A2, A2+ levels) by lots of practice after every lesson. Understand and use familiar everyday expressions.
+Reach your German language goals now and in the future, increasing your opportunities for both personal and professional success.
+By the end of the course, you will build and develop your practical communication skills in German speaking, writing, reading and, of course, your fluency and grammatical accuracy.
+","AbcEdu Online
+","Interactive Board - 30+ years teaching, 200.000+ Students
+","4.3
+",,,
+,,,,,,,,
+TEACHING AND  ACADEMICS,"Become an Algebra Master
+","Operations, including order of operations (PEMDAS) and like-terms
+Fractions, exponents, and radicals, including advanced operations with all three
+Equations and systems of equations, including inverse operations, direct and inverse variation, and distance/rate/time problems
+Graphing, including parallel and perpendicular lines, and parabolas
+Polynomials and factoring, including the quadratic formula and completing the square
+Functions, including domain and range, and sums and products of functions
+Inequalities, including trichotomy and graphing inequalities and conjunctions on a number line
+Exponential and logarithmic functions, including laws of logs, change of base, and graphing
+","Krista King
+","Your geeky, trusty math tutor
+","4.7
+",,,
+,,,,,,,,
+TEACHING AND  ACADEMICS,"The Complete TOEFL iBT Success Course (NEW VERSION)
+","You will be able to pass the NEW TOEFL iBT test for 100 points or more
+You will be fully prepared for all four sections of the test - Reading, Listening, Speaking, Writing
+By the end of this course you will be able to pass TOEFL for the score sufficient to enroll the most prestigious American universities.
+You will learn everything you need to know to succeed on TOEFL, including tactics, skills, templates and ready made solutions to tackle every single question of the test
+","Maria Guryeva
+","Private Coach on Applying to US Universities
+","4.4
+",,,
+,,,,,,,,
+TEACHING AND  ACADEMICS,"Electricity & electronics - Robotics, learn by building
+","develop and build analog electronics circuits
+you will build multiple circuits from sound buzzers to bionics where we actually control a servo motor by reading signals from your muscles
+","Ian Juby
+","Robotics engineer & Educator at Tech Valley Science Centre
+","4.7
+",,,
+,,,,,,,,
+TEACHING AND  ACADEMICS,"The complete SOLAR ENERGY course. Beginner to advanced level
+","Design your own Grid-Tie PV System
+Learn everything on Solar Modules, Optimizers (DC/DC converters), Junction Boxes, Inverterers, Solar Meters
+Calculate Solar Array size
+Determine and select the correct components for the Solar PV system
+Calculate Peak Sun Hours for any location in the world!
+Determine if the Roof Pitch and Azimuth of a property is good for a Solar System
+Determine the optimum panel placement for Solar PV
+Calculate efficiency losses due to Roof Pitch/Azimuth and equipments
+Energy production curve of a PV system vs. house energy needs
+Learn about the Solar Cells Chemistry
+Learn about Monocrystalline vs. Polycrystalline modules
+Learn the wiring foundations
+Build your own Grid-Tie Solar design
+Power concepts & Units
+Learn all the fundamentals of Solar PV energy
+Applications of Solar PV Systems
+Foundations about Off-Grid vs. Grid-Tie
+How does a PV system work
+Learn in detail about the components of a typical PV system
+Advantages and Disadvantages of Solar photovoltaic energy
+","Leandro Caruso
+","Environmental Engineer I Postgraduate in General Management
+","4.4
+",,,
+,,,,,,,,
+TEACHING AND  ACADEMICS,"Economics: Market Forces of demand, supply and equilibrium
+","This course is structured in the most simplest way for anyone who is interested to learn market forces. Through demand, supply and equilibrium, you will be abale to analyze any changes in any market forces in any specific market.
+","Evrim Kanbur
+","Head of Business Management, Entrepreneur, TEDx Speaker
+","4.4
+",,,
+,,,,,,,,
+TEACHING AND  ACADEMICS,"Quantum Physics: an overview of a weird world (Basics)
+","The conceptual foundations of Quantum Physics.
+A comprehensive A-Z guide that will save you a ton of time in searching elsewhere trying to piece all the different information together.
+Quantum Theory without falling into oversimplifications or hyped versions and yet conceived for an audience of non-physicists.
+The double silt experiment, wave particle duality, entanglement, superposition, uncertainty principle, Schrödinger's cat, quantum tunneling and much more.
+A course that fills the gap between a too popularized version of Quantum Mechanics and too high level university courses.
+You will learn all the basics, enabling you to distinguish between mere speculative interpretations in fashion and the real experimental facts.
+","Marco Masi
+","Physicist (Ph.D.) and tutor
+","4.5
+",,,
+,,,,,,,,
+TEACHING AND  ACADEMICS,"Master Neuroscience and Neuroanatomy.
+","Introduction to Neuroanatomy.
+Development of Nervous System.
+Meninges.
+C.S.F & Ventricular system.
+Blood Supply to Brain.
+Blood Brain Barrier.
+Histology of Nervous System.
+Spinal Cord & its Lesions.
+Brown-Sequard Syndrome (BSS).
+Nerve supply to Lacrimal Gland.
+Petrosal Nerves (Greater, Deep & Lesser Petrosal Nerves).
+Ascending Tracts.
+Motor System & Descending Tracts.
+Upper & Lower Motor Neurons & their Lesions.
+Brain Stem (Basic Concepts).
+Medulla.
+Pons .
+Mid-Brain.
+Cerebellum.
+Diencephalon.
+Thalamus.
+Hypothalamus.
+Cranial Nerves (Basic Concepts).
+Oculomotor Nerve and Clinical Correlates.
+Trochlear Nerve and its Clinical Correlates.
+Abducent Nerve and its Clinical Correlates.
+Facial Nerves.
+Facial Nerve & Clinical Correlates.
+Glossopharyngeal & Vagus Nerves (9th & 10th Nerves).
+Ciliary Ganglion and Connections.
+Anatomy of Oculosympathetic Pathway & Horner's Syndrome.
+Pterygopalatine Fossa.
+Pterygopalatine Ganglion.
+Otic Ganglion.
+Basal Ganglia.
+Trigeminal System.
+Ophthalmic Nerve (Lacrimal, Frontal & Nasociliary nerves).
+Maxillary Nerve and its Branches.
+Inner Ear - Auditory System.
+Inner Ear - Vestibular System.
+Vestibulo-Ocular Reflex.
+Visual System.
+Horizontal Conjugate Eye Movements.
+Cerebral Cortex & Speech.
+A.N.S (Epinephrine & Nor-Epinephrine).
+Catecholamines Synthesis, Storage & Release.
+Anatomy of Cavernous Sinus & Cavernous Sinus Syndrome.
+Bulbar & Pseudobulbar Palsy.
+Epilepsy.
+","Dr. Najeeb Lectures
+","World's Most Popular Medical Lectures.
+","4.8
+",,,
+,,,,,,,,
+INSTRUMENT,"Pianoforall - Incredible New Way To Learn Piano & Keyboard
+","Pianoforall will take complete beginners to an intermediate level in a very short space of time
+You get to sound like a pro right from the start
+You will learn the absolute basic essential techniques that will allow you to play any song in any style - by ear!
+You will learn to read sheet music AS you learn to play-by-ear
+","Robin Hall
+","Piano Teacher (300,000 students online), Artist, Therapist,
+","4.7
+",,,
+,,,,,,,,
+INSTRUMENT,"Complete Guitar Lessons System - Beginner to Advanced
+","New to Guitar? This Will be the Only Course You Will Ever Need to Take
+Have You Playing the Guitar in the Shortest Amount of Time While Having the Most Fun
+Most Logical Step-by-step Method to Play Songs and Master Chords, Scales and Guitar Theory
+Exercises That Will Sharpen Your Chord Transitioning, Strumming, Fretting, Picking, and Fingerpicking
+","Erich Andreas
+","#1 Guitar Lessons! 40+Years, 100,000s of Students,
+","4.6
+",,,
+,,,,,,,,
+INSTRUMENT,"Music Theory Comprehensive Complete! (Levels 1, 2, & 3)
+","Read Music Using Proven Techniques
+Understand All the Symbols (Not Only the Notes) of a Music Score
+Read, Play, and Count Rhythms Accurately
+The elements of the Score
+Pitch Names
+Pitch Classes
+Octaves
+The White Keys
+The Black Keys (not the band!)
+Half-Steps and Whole-Steps
+Clefs
+Intervals
+Naming Octaves
+Identifying Notes on the Staff
+Identifying Notes on the Keyboard
+Beat and Beat Divisions
+Tempo
+Downbeats and Upbeats
+Dotted Rhythms
+Time Signatures
+Ties
+Accidentals
+Form in Music Notation
+Chromatic and Diatonic scales
+Ordered Pitch Class Collections
+The pattern of a Major Scale
+Scale Degrees
+Solfege
+Writing melodies with major scales
+Analyzing melodies
+What it means to be ""in key""
+Key signatures
+How to identify key signatures
+Popular song analysis
+Building triads (chords)
+Diatonic chord progressions
+Roman numeral analysis
+Inversions
+Finding chords by formula
+The thirds inside of a chord
+Finding fifths by finding thirds
+Diminished triads
+Augmented triads
+Chords on the guitar
+Full Analysis: Canon in D (Pachabel)
+Full Analysis: Minuet in G (Bach)
+7th Chords
+Major 7th Chords
+Minor 7th Chords
+Dominant 7th Chords
+Tendency Chords
+Using the Circle of Fifths for Songwriting and Composition
+Borrowing from Closely Related Keys
+Scale Degree Names
+Tendency Tones
+Compound Meters
+Compound Meter Signatures
+Reading and Writing Compound Meters
+Triplets, dubplets, and Quadruplets
+Finding Minor keys by alternations to Major
+Patterns in Minor keys
+Relative Minor keys
+Parallel Minor keys
+Minor keys in the Circle of Fifths
+Using Minor Keys for Songwriting and Composition
+Diatonic Chord Progressions in Minor
+The V Chord and Minor and the Leading Tone Problem
+Harmonic Minor Scales
+Melodic Minor Scales
+","Jason Allen
+","Ph.D / Ableton Certified Trainer
+","4.7
+",,,
+,,,,,,,,
+INSTRUMENT,"BECOME A GREAT SINGER: Your Complete Vocal Training System
+","The MOST Successful Singing Course on Udemy.
+Chris Cornell, Layne Staley, Geoff Tate and Ann Wilson all trained THESE techniques. You will be part of that legacy of training.
+Extend Your Vocal Range.
+Learn How To Hit The High Notes! Guaranteed.
+Learn Vocal Distortion & Vocal Rasp Techniques.
+STOP Pushing and Squeezing Into The High Notes, GUARANTEED.
+Develop Your Head Voice for a Four Octave Range.
+Learn How To Get Your Voice Into Cry Vocal Mode.
+Customize Your Own Vocal Workouts To Fix YOUR Unique Vocal Problems.
+Learn About Singing Vowels & Onsets... Famous in The TVS Method.
+How to Train The Voice for Contemporary Styles. NOT Classical.
+","Robert Lunte
+","Founder of The Vocalist Studio & courseCREEK Consulting
+","4.4
+",,,
+,,,,,,,,
+INSTRUMENT,"Understanding Indian Music
+","The history, technicalities, and structure of Indian Music.
+Appreciation of Indian music
+Practical applications of Indian classical music in other forms of contemporary music
+Details of an Indian Classical performance and its connection to Indian culture
+","Aryaman Meswani
+","Student
+","4.9
+",,,
+,,,,,,,,
+INSTRUMENT,"Learn to play HARMONICA, the easiest instrument to pick up!
+","how to play the 12 bar blues, chords, rhythms, tone and chugging
+how to breathe properly, use straight and swing rhythms
+how to play single notes with pucker and tongue-blocked embouchures
+scales, modes and positions, single/double/triple tonguing
+how to use major and minor pentatonic scales for improvising and soloing
+how to bend notes, use the hands properly, different types of vibratos and tremolos
+how to play in the Masters' styles - Sonny Terry, Sonnyboy Williamson etc
+","Ben Hewlett
+","Let me turbocharge your harmonica playing to the next level
+","4.5
+",,,
+,,,,,,,,
+INSTRUMENT,"How to Become a DJ - Learn How to Start DJing Online Today
+","How to DJ - Learn how to become a DJ online: This best-selling, top-rated online DJ school is a complete masterclass with 11 hours of high quality video.
+You will have EVERY skill needed to play in front of the largest crowds and win. You won't have to rely on a pre-recorded set to play like a virtuoso.
+","Ross Palmer
+","Digital Mentor
+","4.6
+",,,
+,,,,,,,,
+INSTRUMENT,"Game Music Composition: Make Music For Games From Scratch
+","Compose high quality, original video game music for any type of game and genre, for your own game or for someone else's game.
+Start or further your career as a game music composer.
+Understand some music theory, music composition, music production and general game music knowledge.
+","Karleen Heong
+","Composer, Music Teacher, Programmer
+","4.6
+",,,
+,,,,,,,,
+INSTRUMENT,"Ultimate Ableton Live 10 COMPLETE: Parts 1, 2, and 3
+","At the end of this course, students will be able to produce music with Ableton Live and be on their way to being a professional musician.
+Produce music using Ableton Live
+Use drum samples to edit, arrange, and create unique drum beats of your own.
+Work inside Ableton Live for completing full tracks
+Kickstart your productions with my tracks - full sessions included in this class!
+Students will understand the two videos in Live.
+The fundamentals to recording in Live
+All possible ways of editing in Live
+The 10 fundamentals to audio recording
+The 6 fundamentals to MIDI recording
+The essential tools for Warping
+Editing and Producing in Arrangement view
+Session View editing and Producing
+Making Beats
+The 7 (and more!) methods to making beats in Ableton Live
+Producing with synths in Ableton Live
+The 12 Ableton Live Instruments
+The new Wavetable Synth
+The Ableton Live Samples
+The 3 uses of Racks
+The 8 MIDI Effects
+The 10 Time-based audio effects
+The 17 frequency-based audio effects
+The 7 Dynamic-based audio effects
+Working with Controllers and DJ Tools
+Performing with Ableton Live
+","Jason Allen
+","Ph.D / Ableton Certified Trainer
+","4.4
+",,,
+,,,,,,,,
+INSTRUMENT,"Learn To Play The Drums
+","Learn different Rhythms that make up everything we play on the drums
+Learn to play Rudiments - Patterns that are the building blocks of drumming
+Learn to play Rock Grooves - Impress your friends with your excellent beats
+Learn how to play along to Popular Songs
+Learn different Styles of Drumming - Latin, March, Blues, Reggae
+Learn Theory of Drum Music and how to read Drum Notation
+","Billy Baker
+","UK Freelance drummer
+","4.7
+",,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
