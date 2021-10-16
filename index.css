@@ -106,3 +106,34 @@ button:hover {
   color: white;
 }
 
+/* for pathSelection.js */
+.card-container {
+	border: 2px solid #fff;
+	margin-left: 600px;
+	margin-right: 600px;
+	margin-bottom: 2.5rem;
+	background-color: #fff;
+	padding-bottom: 25px;
+	padding-top: 10px;
+	border-radius: 25px;
+}
+
+.card-title {
+	color: #000;
+}
+
+.card-text {
+	color: grey;
+}
+
+/* Button */
+.path-selection-btn {
+	border-radius: 5px;
+	width: 100px;
+	background-color: #50a3a2;
+	color: #fff;
+}
+.path-selection-btn:hover {
+	background-color: #000;
+	color: #50a3a2;
+}
